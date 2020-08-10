@@ -11,21 +11,15 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  array = ["Bob", "Linda", "Tina", "Gene"]
-  array.unshift("Louise")
-  return array
+
 end
 
 def remove_element_from_end_of_array(array)
-  array = ["Bob", "Linda", "Tina", "Gene"]
-  array.pop
-  return array
+
 end
 
 def remove_element_from_start_of_array(array)
-  array = ["Bob", "Linda", "Tina", "Gene", "Louise"]
-  array.shift
-  return array
+
 end
 
 def retrieve_element_from_index(array, index_number)
