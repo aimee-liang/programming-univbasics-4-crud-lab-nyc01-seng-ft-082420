@@ -31,9 +31,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  Belchers = ["Bob", "Linda", "Tina", "Gene", "Louise"]
-  Belchers[-1]
-  return Belchers
+
 end
 
 def update_element_from_index(array, index_number, element)
